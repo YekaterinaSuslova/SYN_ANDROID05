@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Павлодар</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Улица Камзина</b><BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">KaspiBank</string>
+    <string name="marker1_txt_click">Казахстанский системообразующий банк</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Kaspi Bank</b><BR>
+        – казахстанский розничный системообразующий банк.<BR>
+        Головной офис находится в Алма-Ате.<BR>
+        По состоянию на 05 февраля 2020 года крупным акционером банка с 94,4 %
+        долей участия является АО «Kaspi Group», принадлежащее банковскому холдингу АО «Kaspi».<BR>
+        По итогам 2019 года Kaspi попал в список тридцати крупнейших налогоплательщиков страны,
+        пополнив госбюджет на сумму 41 млрд тенге.<BR>
+        Помимо банковских услуг, деятельность Kaspi Bank включает розничные финансовые услуги,
+        электронные платежи и организацию электронных торговых площадок.<BR>
+        В Казахстане более двух третей цифрового банковского рынка приходится на Kaspi.<BR>
+        Телефон:+7(7272)58-59-65<BR>
+        Сайт: http://www.kaspi.kz<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/KASPI/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">ПКЦМ</string>
+    <string name="marker2_txt_click">Павлодарский колледж цветной металлургии</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Павлодарский колледж цветной металлургии</b> <BR>
+        одно из старейших учебных заведений
+        с богатой историей и сложившимися традициями! <BR>
+        Миссия колледжа – подготовка квалифицированных кадров в соответствии
+        с запросами рынка труда металлургической отрасли Павлодарского региона.<BR>
+        Телефон: 8(7182)60-65-64<BR>
+        Сайт: http://www.college7-pav2.kz/<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/PCCM/index.html</string>
+
+    <!--  -->
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Jet-Logistic</string>
+    <string name="marker3_txt_click">Логистическая компания</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>Jet-Logistic</b> <BR>
+        логистическая компания<BR>
+        Грузоперевозки Россия Казахстан Киргизия.<BR>
+        Своя проверенная база поставщиков.<BR>
+        Свой автопарк. Короткие сроки.<BR>
+        Телефон: +7 777 545 7770<BR>
+        Сайт: http://https://www.jet.com.kz//<BR>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/JET/index.html</string>
+
+    <!--  -->
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Halyk Bank</string>
+    <string name="marker4_txt_click">Народный банк Казахстана</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>Halyk Bank</b> <BR>
+        системообразующий универсальный коммерческий банк страны.<BR>
+        Банк является, частным банком 2-го уровня, форма юридического
+        лица «Акционерное Общество».<BR>
+        Полное фирменное наименование на казахском языке — «Қазақстан Халық жинақ банкі» акционерлік қоғамы,
+        на русском языке — акционерное общество «Народный сберегательный банк Казахстана».<BR>
+        Телефон: 7111<BR>
+        Сайт: https://halykbank.kz/<BR>
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/HALYK/index.html</string>
+
+    <!--  -->
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">ППВК</string>
+    <string name="marker5_txt_click">Павлодарский политехнический высший колледж</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b>Павлодарский политехнический высший колледж</b> <BR>
+        лидер в подготовке специалистов – руководителей среднего звена.<BR>
+        Миссия колледжа - организация высокого качества технического
+        и профессионального образования, интеграция интересов работодателя,
+        колледжа и обучающихся, формирование профессионально компетентной,
+        гармонично развитой личности, легко адаптирующейся в коллективе,
+        готовой трудиться в условиях конкуренции рынка труда.<BR>
+        Телефон: 60-26-00<BR>
+        Сайт: https://politex.kz/<BR>
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/PPVC/index.html</string>
+
+</resources>
